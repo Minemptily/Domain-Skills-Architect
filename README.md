@@ -35,4 +35,4 @@ If you want deep enterprise configuration templates, continuous script updates, 
 - `scripts/` - Automated gate validation and verification scripts
 
 ## 📄 License
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License. See [LICENSE](LICENSE) for details."# Minemptily-SKILLS" 
