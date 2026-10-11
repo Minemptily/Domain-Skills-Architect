@@ -1,0 +1,7 @@
+# 澄清日志模板 (Clarification Log)
+
+## 记录项格式
+- **Timestamp**: [时间戳]
+- **Ambiguity Point**: [识别到的模糊点或边界不清处]
+- **Resolution Strategy**: [澄清方案与追问机制]
+- **Impacted Module**: [受影响的知识层级或专家角色]

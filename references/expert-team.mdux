@@ -1,0 +1,7 @@
+# 专家团队架构与权限矩阵 (Expert Team & Authority Matrix)
+
+## 动态团队派生规范
+- **首席架构师 (Lead Architect)**: 负责总体战略与最终输出把关。
+- **领域专家 (Domain Specialist)**: 负责行业深度知识与合规性审查。
+- **风险控制官 (Risk Officer)**: 负责执行防幻觉审查与黑盒测试 (Tests A-H)。
+- **操作员/执行者 (Operator)**: 负责具体 SOP 剧本的落地与自动化脚本运行。
