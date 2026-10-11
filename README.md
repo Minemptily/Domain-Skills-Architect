@@ -25,7 +25,7 @@ If you are tired of writing tedious, generic prompts, this tool acts as your **A
 ## 🛒 Get the Pro Version / Support
 If you want deep enterprise configuration templates, continuous script updates, and exclusive developer support, check out the full version on Gumroad:
 
-👉 **[Get Domain Skill Architect Pro on Gumroad](https://你的Gumroad链接)**
+👉 **[Get Domain Skill Architect Pro on Gumroad](https://minemptily.gumroad.com/l/lgvvsh)**
 
 ---
 
