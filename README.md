@@ -5,7 +5,7 @@
 [![Gumroad](https://img.shields.io/badge/Get%20Pro%20Version-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://你的Gumroad链接)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
----
+<img width="2560" height="4875" alt="infographic-en" src="https://github.com/user-attachments/assets/29cd07ff-a6a8-4340-8f96-dfc765ad7266" />
 
 ## 💡 What is this?
 `domain-skill-architect` is a **"Meta-Skill" used to build other skills**. 
